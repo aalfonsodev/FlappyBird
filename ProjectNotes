@@ -1,0 +1,5 @@
+Gravity => Apply gravity to the bird to push it down. Gravity is change of velocity overtime, so if is going down should be positive
+-y = up
++y = down
+-x = left
++X = right

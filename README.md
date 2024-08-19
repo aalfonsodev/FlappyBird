@@ -1,15 +1,15 @@
-#FlappyBird Java Game
-##Overview
+# FlappyBird Java Game
+## Overview
 This is a simple implementation of the popular Flappy Bird game in Java using the Swing library for graphical user interface (GUI) components. The game involves controlling a bird that moves through a series of pipes without colliding with them. The goal is to achieve the highest score by passing through as many pipes as possible.
 
-##Features
+## Features
 - Smooth Graphics: The game features a smooth graphical display with a background, bird, and pipes.
 - Random Pipe Placement: Pipes are placed randomly with different gaps, adding variety to the gameplay.
 - Score Tracking: The game tracks the player's score based on the number of pipes passed.
 - Game Over Detection: The game automatically detects when the bird collides with a pipe or goes off-screen, ending the game.
 - Restart Functionality: Players can restart the game by pressing the space bar after a game over.
 
-##Installation
+## Installation
 - To run this Flappy Bird game, you need to have Java Development Kit (JDK) installed on your machine.
 
 - Clone or Download the Repository: Download the source code or clone the repository from the version control system.
